@@ -21,6 +21,7 @@
 		0D69565A20BBD0BB00FFFFF8 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 0D69564920BBD0BB00FFFFF8 /* unzip.c */; };
 		0D69565B20BBD0BB00FFFFF8 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 0D69564B20BBD0BB00FFFFF8 /* zip.c */; };
 		0D69565C20BBD0BB00FFFFF8 /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D69564E20BBD0BB00FFFFF8 /* SSZipArchive.m */; };
+		0D69566420BC05D700FFFFF8 /* WJIconTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D69566320BC05D700FFFFF8 /* WJIconTool.m */; };
 		0D90A36A20BB931600F3F550 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D90A36920BB931600F3F550 /* AppDelegate.m */; };
 		0D90A36D20BB931600F3F550 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D90A36C20BB931600F3F550 /* ViewController.m */; };
 		0D90A36F20BB931600F3F550 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D90A36E20BB931600F3F550 /* Assets.xcassets */; };
@@ -64,6 +65,8 @@
 		0D69564C20BBD0BB00FFFFF8 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
 		0D69564D20BBD0BB00FFFFF8 /* SSZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
 		0D69564E20BBD0BB00FFFFF8 /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
+		0D69566220BC05D700FFFFF8 /* WJIconTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJIconTool.h; sourceTree = "<group>"; };
+		0D69566320BC05D700FFFFF8 /* WJIconTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJIconTool.m; sourceTree = "<group>"; };
 		0D90A36520BB931600F3F550 /* iconTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iconTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D90A36820BB931600F3F550 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0D90A36920BB931600F3F550 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -173,6 +176,8 @@
 				0D90A38B20BB939100F3F550 /* NSImage+Catgory.m */,
 				0D90A36B20BB931600F3F550 /* ViewController.h */,
 				0D90A36C20BB931600F3F550 /* ViewController.m */,
+				0D69566220BC05D700FFFFF8 /* WJIconTool.h */,
+				0D69566320BC05D700FFFFF8 /* WJIconTool.m */,
 				0D90A36E20BB931600F3F550 /* Assets.xcassets */,
 				0D90A37020BB931600F3F550 /* Main.storyboard */,
 				0D90A37320BB931600F3F550 /* Info.plist */,
@@ -262,6 +267,7 @@
 				0D69565420BBD0BB00FFFFF8 /* hmac.c in Sources */,
 				0D69565C20BBD0BB00FFFFF8 /* SSZipArchive.m in Sources */,
 				0D90A38E20BB939100F3F550 /* NSImage+Catgory.m in Sources */,
+				0D69566420BC05D700FFFFF8 /* WJIconTool.m in Sources */,
 				0D90A36D20BB931600F3F550 /* ViewController.m in Sources */,
 				0D69565120BBD0BB00FFFFF8 /* aestab.c in Sources */,
 				0D69565620BBD0BB00FFFFF8 /* pwd2key.c in Sources */,
